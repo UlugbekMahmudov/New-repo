@@ -1,2 +1,2 @@
-# New-repo
+# Upstream
 Practice account for learning Git
